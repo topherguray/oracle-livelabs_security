@@ -3,7 +3,7 @@
 ## Introduction
 This workshop introduces the various features and functionality of Oracle Data Redaction. It gives the user an opportunity to learn how to configure those features in order to protect access to sensitive data by redacting them on-the-fly.
 
-*Estimated Lab Time:* 15 minutes
+*Estimated Lab Time:* 15 minutes **Testing** 
 
 *Version tested in this lab:* Oracle DBEE 19.23
 
@@ -11,7 +11,7 @@ This workshop introduces the various features and functionality of Oracle Data R
 Watch a preview of "*Livelabs - Oracle ASO (Transparent Data Encryption & Data Redaction) (May 2022)*" [](youtube:JflshZKgxYs)
 
 ### Objectives
-**Testing** Dynamically redact sensitive data preventing it from being displayed outside the application
+Dynamically redact sensitive data preventing it from being displayed outside the application
 
 ### Prerequisites
 This lab assumes you have:
