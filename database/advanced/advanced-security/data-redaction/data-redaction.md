@@ -11,7 +11,7 @@ This workshop introduces the various features and functionality of Oracle Data R
 Watch a preview of "*Livelabs - Oracle ASO (Transparent Data Encryption & Data Redaction) (May 2022)*" [](youtube:JflshZKgxYs)
 
 ### Objectives
-Dynamically redact sensitive data preventing it from being displayed outside the application
+**Testing** Dynamically redact sensitive data preventing it from being displayed outside the application
 
 ### Prerequisites
 This lab assumes you have:
