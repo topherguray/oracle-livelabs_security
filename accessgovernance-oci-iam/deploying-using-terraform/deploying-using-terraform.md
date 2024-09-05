@@ -22,7 +22,7 @@ In this lab, you will:
 1. Click on the link below to download the Resource Manager zip file you need to build your environment:
 
     
-   - [oracle_access_governance-terraform-stack-oci.zip](https://objectstorage.us-ashburn-1.oraclecloud.com/p/MTsP7W7GaRBSnD_PTcaAMjf5R9fwPxAb-R4QiPuxArhBQgEQA2pOxkXGbraDBKTb/n/id3kvohtwgjy/b/FileStore/o/ag-terra-oci-iam.zip)
+   - [oracle_access_governance-terraform-stack-oci.zip](https://c4u04.objectstorage.us-ashburn-1.oci.customer-oci.com/p/EcTjWk2IuZPZeNnD_fYMcgUhdNDIDA6rt9gaFj_WZMiL7VvxPBNMY60837hu5hga/n/c4u04/b/livelabsfiles/o/security-library/ag-terra-oci_iam.zip)
 
 
   Save in your downloads folder.
@@ -50,6 +50,10 @@ In this lab, you will:
   Browse the Downloaded stack file from previous step and upload it. 
 
   ![Upload zip file](images/upload-zip.png)
+
+  Under **Create in Compartment** select the **Root compartment**
+
+  ![Upload zip file](images/select-compartment.png)
 
   Click *Next*
 
