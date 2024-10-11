@@ -1,6 +1,6 @@
 # Introduction
 
-## About this Workshop (test change)
+## About this Workshop
 ### Overview
 *Estimated Time to complete the workshop*: 85 minutes
 
